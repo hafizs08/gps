@@ -113,4 +113,7 @@ Karena unit test belum tersedia, kamu bisa menggunakan:
 | GET    | `/api/vehicles/{id}/last-location`  | Lokasi terakhir kendaraan       |
 | GET    | `/api/vehicles/{id}/history?from=...&to=...` | Riwayat lokasi berdasarkan waktu |
 
+<img width="443" alt="erd" src="https://github.com/user-attachments/assets/1ac376e9-1e37-48bf-a76c-3da96b7481c2" />
+
+
 <img width="750" alt="swagger" src="https://github.com/user-attachments/assets/1f7fdbea-77e3-4ac6-83cc-253fa14783f7" />
